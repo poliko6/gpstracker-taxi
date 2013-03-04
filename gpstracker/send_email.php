@@ -1,6 +1,7 @@
 <?php 
 include('config.php');
 include('include/classUser.php');
+//test svn gg
 	$mapposition=12255;
 	$keyPassPost = $_REQUEST['keyPassPost'];
 	$deviceIDPost = $_REQUEST['deviceIDPost'];

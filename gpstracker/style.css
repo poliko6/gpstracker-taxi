@@ -1,8 +1,10 @@
 body, input {
 	background:url(bg.png);
-	font-family: Georgia, "Times New Roman", Times, serif;
-
+	font-family: Georgia, "Times New Roman", Times, serif;	
+}
+.testSvn{
 	
+	background:url(bg.png);
 }
 #content {
 	background-color: #eee;
